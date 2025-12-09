@@ -25,7 +25,7 @@ function App() {
                 <p className="text-gray-400 mb-8 max-w-xl mx-auto">
                     I'm currently looking for new opportunities. Whether you have a question or just want to say hi, I'll try my best to get back to you!
                 </p>
-                <a href="mailto:hello@example.com" className="inline-block px-8 py-4 bg-gradient-to-r from-primary to-secondary text-white font-bold rounded-lg hover:shadow-lg hover:shadow-primary/30 transition-all">
+                <a href="mailto:brijeshsuman461@gmail.com" className="inline-block px-8 py-4 bg-gradient-to-r from-primary to-secondary text-white font-bold rounded-lg hover:shadow-lg hover:shadow-primary/30 transition-all">
                     Say Hello
                 </a>
             </div>
